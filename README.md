@@ -5,6 +5,7 @@ Análise de padrões espaciais e regras de associação em dados de queimadas do
 ## Estrutura
 
 - `Projeto.ipynb` — relatório completo (introdução, justificativa, revisão, metodologia, resultados, conclusão, referências) com todo o código executado
+- `Relatorio_Final_Mineracao_Queimadas_Amazonia_2025.pdf` — relatório final escrito
 - `bdqueimadas_2025-01-01_2025-12-31.csv` — base de dados do INPE
 
 ## Como executar
